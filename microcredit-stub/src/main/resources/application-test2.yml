@@ -1,0 +1,5 @@
+server:
+  port: 7775
+
+delay:
+  ms: 4000
